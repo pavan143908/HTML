@@ -1,2 +1,2 @@
 # HTML
-The code i have writen to learn HTML
+The code i have written to learn HTML
